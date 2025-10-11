@@ -2,7 +2,7 @@
 
 namespace Tyuiu.GurinchukAV.Sprint2.Task0.V24
 {
-    class programm
+    class Programm
     {
         static void Main(string[] args)
         {
