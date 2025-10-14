@@ -11,7 +11,7 @@ namespace Tyuiu.GurinchukAV.Sprint2.Task6.V14
             Console.WriteLine("* Тема: Получение результата из switch                                    *");
             Console.WriteLine("* Задание #6                                                              *");
             Console.WriteLine("* Вариант #14                                                             *");
-            Console.WriteLine("* Выполнил: Гуринчук Анастасия Витальевна | ИБКСб-25-1                     *");
+            Console.WriteLine("* Выполнил: Гуринчук Анастасия Витальевна | ИБКСб-25-1                    *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Дано целое число k (1 < k <= 365). Определить, каким днем недели        *");
