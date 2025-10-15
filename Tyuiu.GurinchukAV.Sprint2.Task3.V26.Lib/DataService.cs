@@ -9,15 +9,15 @@ namespace Tyuiu.GurinchukAV.Sprint2.Task3.V26.Lib
 
             if (x > 0)
             {
-                y = x + ((x + 1) / Math.Cos(Math.Pow(x, 2)));
+                y = x + Math.Pow((x + 1) / Math.Cos(Math.Pow(x, 2)), x);
             }
             else if (x == 0)
             {
-                y = 15 + x;
+                y = 3 * 3 - Math.Sin(Math.Pow(x, 2));
             }
             else if (x > -30 && x < 0)
             {
-                y = (3 * Math.Pow(x, 2) - Math.Sin(Math.Pow(x, 2))) / (x + 5);
+                y = Math.Pow(Math.Sin(Math.Pow(x, 3)) / (x + 5), x);
             }
             else 
             {
